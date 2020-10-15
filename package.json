@@ -1,0 +1,11 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "Restaurant menu made with vanilla javascript",
+  "main": "1-basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veronica Maxwell",
+  "license": "ISC"
+}
